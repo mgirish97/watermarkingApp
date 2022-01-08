@@ -7,6 +7,7 @@ global my_image, canvas, canvas_image, image_filename
 global input_text, text_win
 global new_image, out
 
+#
 
 window = Tk()
 window.config(padx=50, pady=50)
